@@ -28,4 +28,4 @@ Like `yarn start`, but also attempts to open your app on a connected Android dev
 
 
 ## Snap shots
-![Screenshot](./screenshots/Coffee-App-Home.png)
+<img src="./screenshots/Coffee-App-Home.png" width="250" />
